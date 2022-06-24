@@ -43,16 +43,16 @@ Giles Smith: HR Manager
 *** Web Designing: ***
 From a simple website to an advanced website, we have all sorts of web designs for you. We have a team of designers who can help you in your project. Our experts develop the design in such a manner that it should appear at the top of Search Engine Result Pages (SERPs).  We are a team of web developers who can create, update and maintain your website on any platform and in any language. We also take care of security so that there is no data breach or spamming attack on your website. 
 
-Mobile App Development:
+***   Mobile App Development: ***
 We have developed over 25 mobile applications for our clients. Our app development may include the Website Design, CMS, Marketing, and Development of Mobile Apps. We create amazing mobile apps that have viral utility and help to engage users very well in the market. We can create any kind of mobile app for you. Our team is capable of completing any kind of migration without any data loss or downtime. As far as possible we try to keep the costs within the limits and help our clients in maintaining their brand value and standards. 
 
-WordPress:
+*** WordPress: ***
 We have a team of professionals who can help you in the development and design of your WordPress website. We will help you in installing plugins and other necessary tools to create a unique experience for the user. We can also help you to update your website as per the latest changes made by the community. Moreover, we can develop custom code for your project from scratch or migrate your existing website to WordPress with no downtime.
 
-Shopify Experts:
+*** Shopify Experts: ***
 If you have a Shopify website and looking for expert developers then you can approach ControlF5. Our team can help you in updating your Shopify store according to the latest changes by the community. Moreover, we can also help you in developing custom code for your project from scratch or migrate your existing Shopify store to any platform with no downtime. ControlF5 is a team of responsive website developers, who knows how to develop a website that adapts itself to any device that it is accessed. Our top-notch responsive web development services include creating a website design, development & maintenance. 
 
-Do You Wish To Promote your Business Online?
+###  Do You Wish To Promote your Business Online?
 
 We can help you in promoting your business online. Our team of experienced professionals helps you in the marketing and promotion of your business by creating a website for your business and managing the whole thing for you. We work on a monthly basis to market your business and make it popular among the people. 
 
