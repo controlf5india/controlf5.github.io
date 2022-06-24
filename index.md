@@ -23,33 +23,33 @@ A website is incomplete without a front end. We have skilled and experienced fro
 
 Our client testimonials speak for the work we do, starting from reliable sources of management to helping our clients reach their goals with our support. 
 
-Andrea Joseph: Marketing Manager
+***Andrea Joseph: Marketing Manager***
 "We were looking for a reliable WordPress developer and designer to help us build an online store. I found the team at ControlF5 very professional in their approach and the final product is of great quality! The staff is easy to work with and they understood exactly what we wanted. I’d definitely recommend ControlF5!"
 
-Corey Jones: Head of Finance
+***Corey Jones: Head of Finance***
 "We have been working with ControlF5 team for a number of years now, so much so that we have not even had to look elsewhere as they cover all aspects of our web development requirements. Their dynamic workflow projects are always completed on time and are of a high standard. They are smart, with a great understanding of web technologies, and capable of delivering fruitful solutions. They are truly an asset to any business."
 
-Sumit Chingre: Owner
+***Sumit Chingre: Owner***
 "We had been trying out other agencies for our website development projects for a couple of times but every time it was a disaster before we came across ControlF5. Our requirement was that we have to have exactly what we have outlined during the interview stage and they did just that. We were impressed with their professionalism and friendly approach towards delivery."
 
-Abdul Vahid: Director
+***Abdul Vahid: Director***
 "ControlF5 is undoubtedly one of the best programmers I have ever worked with. I highly recommend them as they provide quick results while being extremely customer-oriented. You will not regret it if you hire their services. They are very flexible and offer discounts as per need. I am glad to have worked with them."
 
-Giles Smith: HR Manager
+***Giles Smith: HR Manager***
 "ControlF5 has been providing me with professional services over the past three years. Their service quality and products are of superior quality and their ethical approach has always been impeccable. They have an impressive portfolio of projects which is a testament to their expertise in all aspects of web development."
 
 ###  What Can We Do For Your Website?
 
-*** Web Designing: ***
+***Web Designing:***
 From a simple website to an advanced website, we have all sorts of web designs for you. We have a team of designers who can help you in your project. Our experts develop the design in such a manner that it should appear at the top of Search Engine Result Pages (SERPs).  We are a team of web developers who can create, update and maintain your website on any platform and in any language. We also take care of security so that there is no data breach or spamming attack on your website. 
 
-***   Mobile App Development: ***
+***Mobile App Development:***
 We have developed over 25 mobile applications for our clients. Our app development may include the Website Design, CMS, Marketing, and Development of Mobile Apps. We create amazing mobile apps that have viral utility and help to engage users very well in the market. We can create any kind of mobile app for you. Our team is capable of completing any kind of migration without any data loss or downtime. As far as possible we try to keep the costs within the limits and help our clients in maintaining their brand value and standards. 
 
-*** WordPress: ***
+***WordPress:***
 We have a team of professionals who can help you in the development and design of your WordPress website. We will help you in installing plugins and other necessary tools to create a unique experience for the user. We can also help you to update your website as per the latest changes made by the community. Moreover, we can develop custom code for your project from scratch or migrate your existing website to WordPress with no downtime.
 
-*** Shopify Experts: ***
+***Shopify Experts:***
 If you have a Shopify website and looking for expert developers then you can approach ControlF5. Our team can help you in updating your Shopify store according to the latest changes by the community. Moreover, we can also help you in developing custom code for your project from scratch or migrate your existing Shopify store to any platform with no downtime. ControlF5 is a team of responsive website developers, who knows how to develop a website that adapts itself to any device that it is accessed. Our top-notch responsive web development services include creating a website design, development & maintenance. 
 
 ###  Do You Wish To Promote your Business Online?
