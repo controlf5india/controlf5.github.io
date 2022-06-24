@@ -7,7 +7,7 @@ ControlF5 is a leading web designing and development company and we adhere to th
 
 ControlF5 is an online e-commerce solutions company providing quality solutions to both small and large establishments. We are WordPress Developers who can give you the ultimate in Web development. Our projects are made to be user-friendly and SEO friendly. We help our clients to understand WordPress coding so that they can make changes to their websites as per their requirements. We have a team of developers who work with the latest technologies and a bunch of designers who can help them with designing the website at least having two pages. We have a team of experts to work with you, so there should not be any problem in making the website fully functional.
 
-### Shopify Experts:
+### [Shopify Experts](https://www.controlf5.in/shopify-experts/):
 
 For our clients, who wish to start an online store, we take care of the setup on Shopify. We also set up Ended up accounts for them so that they can send us all their orders. We also assist in upselling and cross-Selling products through it and test them for any anomalies before sending them to the client. We are a fast-paced company with a dynamic team of web developers, designers, and SEO experts, we provide services for our clients and are assured of superior quality website design and development services by us. To further enhance our reputation in this field all over the world. We strive hard to provide solutions to our customers that help them create their perfect vision on websites or web applications.
 
